@@ -1005,3 +1005,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.27-13.59.21:615][  0]LogSlate: Took 0.006474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.02.27-13.59.21:633][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
 [2024.02.27-14.05.03:652][230]LogSlate: Took 0.005195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.27-14.06.12:911][540]LogRenderer: Reallocating scene render targets to support 964x428 Format 10 NumSamples 1 (Frame:1339).
