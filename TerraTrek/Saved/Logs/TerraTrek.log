@@ -5670,3 +5670,7 @@ Please see Output Log for details.
 [2024.02.28-12.54.42:537][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.02.28-12.54.42:544][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
 [2024.02.28-12.54.42:591][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.02.28-13.02.56:997][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.28-13.02.57:020][739]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/TerraTrek/TerraTrek/Saved/ThirdPersonExampleMap_Auto7A9D03C72452CFE1739B90EB4099E4AD5.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/TerraTrek/TerraTrek/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2024.02.28-13.02.57:021][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.049
+[2024.02.28-13.02.57:021][739]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
